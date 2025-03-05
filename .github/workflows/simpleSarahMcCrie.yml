@@ -15,4 +15,4 @@ jobs:
       - name: Display greeting
         run: echo Hello from GitHub Actions!
       - name: Custom debug message
-        run: echo This is my custom message from Sarah McCrie
+        run: echo Replace this message with a custom debug statement with echo Debugging by Sarah McCrie, a test action!
